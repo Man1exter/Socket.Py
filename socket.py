@@ -1,1 +1,1 @@
-import socket
+import socket as s
