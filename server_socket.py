@@ -2,7 +2,7 @@
 
 import socket as sc
 
-HOST = '128.125.1.13'
+HOST = '192.168.8.122'
 PORT = 33
 
 server_socket = sc.socket(sc.AF_INET, sc.SOCK_STREAM)
