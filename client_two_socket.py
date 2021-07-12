@@ -3,7 +3,7 @@
 from server_socket import BUFFER
 import socket as sc
 
-HOST = '1hide'
+HOST = 'hide'
 PORT = 33000
 
 BUFFER = 512
