@@ -3,7 +3,7 @@
 from server_socket import BUFFER
 import socket as sc
 
-HOST = '192.168.8.122'
+HOST = '1hide'
 PORT = 33000
 
 BUFFER = 512
@@ -19,4 +19,4 @@ client_socket.send(name)
 client_socket.send(id_name)
 
 msg = client_socket.recv(BUFFER).decode("utf8")
-print("Server> "+msg)
+print("Server> " + msg)

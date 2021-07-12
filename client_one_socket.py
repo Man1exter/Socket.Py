@@ -3,7 +3,7 @@
 from server_socket import BUFFER
 import socket as sc
 
-HOST = '192.168.8.122'
+HOST = 'hide'
 PORT = 3300
 
 BUFFER = 1024
